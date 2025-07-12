@@ -7,7 +7,8 @@ It’s still very WIP, Import is very rudimentary and will give you barely anyth
 ### Features
 | Data | Import | Export |
 | --- | --- | --- |
-| CDAE.Mesh | ⚠️ | ⚠️ |
+| CDAE.Mesh | ✅ | ⚠️ |
+| CDAE.Materials | ✅ | ⚠️ |
 | CDA.Mesh | ❌ | ⚠️ |
 | CDAE.Animations | ❌ | ❌ |
 | CDA.Animations | ❌ | ❌ |
